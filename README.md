@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Mupaky
-- 👀 I’m interested in Java, Android Apps, API's and AI
-- 🌱 I’m currently learning ...(All my life)
-- 💞️ I’m looking to collaborate on android projects 
-- 📫 How to reach: send me a project name
-  
+### Georgi Zhelev (Mupaky)
+
+- Android & Java developer • OOP, JDBC/SQL, Gradle  
+- Also: HTML/CSS/JavaScript • Python 
+- Projects: TheLastQueen, MortgageCalculator, BelotCalculator (They are old) 
+- Interests: mobile UX, clean code, lightweight web/canvas games  
+- Open to Android/Java/JS?TS(projects/frameworks)/Python collaborations • **georgi.jelev94@gmail.com**
 
 
